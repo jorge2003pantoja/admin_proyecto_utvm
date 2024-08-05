@@ -17,7 +17,7 @@
                             </span>
 
                              <div class="float-right">
-                                <a href="{{ route('productos.create') }}" class="btn btn-primary btn-sm float-right"  data-placement="left">
+                                <a href="{{ route('productos.create') }}" class="btn btn-create btn-sm float-right"  data-placement="left">
                                   {{ __('Create New') }}
                                 </a>
                               </div>
@@ -29,13 +29,13 @@
                         </div>
                     @endif
 
-                    <div class="card-body bg-white">
+                    <div class="card-body">
                         <div class="table-responsive">
                             <table class="table table-striped table-hover">
                                 <thead class="thead">
                                     <tr>
                                         <th>No</th>
-                                        
+
 									<th >Nombre</th>
 									<th >Descripcion</th>
 									<th >Precio</th>
@@ -49,7 +49,7 @@
                                     @foreach ($productos as $producto)
                                         <tr>
                                             <td>{{ ++$i }}</td>
-                                            
+
 										<td >{{ $producto->nombre }}</td>
 										<td >{{ $producto->descripcion }}</td>
 										<td >{{ $producto->precio }}</td>

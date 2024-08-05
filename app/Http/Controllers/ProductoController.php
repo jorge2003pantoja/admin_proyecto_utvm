@@ -22,6 +22,14 @@ class ProductoController extends Controller
             ->with('i', ($request->input('page', 1) - 1) * $productos->perPage());
     }
 
+    public function userIndex(Request $request): View
+    {
+        $productos = Producto::paginate();
+
+        return view('productos', compact('productos'))
+            ->with('i', ($request->input('page', 1) - 1) * $productos->perPage());
+    }
+
     /**
      * Show the form for creating a new resource.
      */
