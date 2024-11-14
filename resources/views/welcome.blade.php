@@ -153,9 +153,21 @@
 <div class="section-container">
     <img src="img/inicio1.PNG" alt="Producto">
     <div class="section-text">
-        <p>Lorem ipsum dolor sit amet consectetur. Enim rhoncus lectus porttitor velit netus mauris sit posuere leo. Turpis tristique rhoncus eget non senectus mollis.</p>
-        <p>Nunc viverra cursus ante tortor. Donec fermentum urna est sed nunc ut. Donec convallis nulla condimentum justo.</p>
-        <p>Sapien maecenas lectus sit sit vulputate enim risus pharetra. Arcu mauris nisi mus vitae turpis egestas sem at nisi. Leo eu eu sem sed sociis. Sed mi eu tellus laoreet tempor praesent. A enim leo orci sit.</p>
+        <p>La expansión de la industria alimentaria ha hecho que se extienda el uso de especias y 
+            condimentos en restaurantes, así como en cadenas de comida rápida, ya que se emplean para 
+            dar sabor y aroma a los alimentos procesados. Además, a medida que los consumidores se 
+            preocupan más por su salud o el bienestar del medio ambiente, de igual forma buscan 
+            cada vez más productos naturales, ecológicos como lo son las especias y condimentos. 
+            <br><br>
+            Este factor es el que más ha influido en las perspectivas de mercado del sector de las 
+            especias gracias al aumento de los pedidos y la demanda de productos de primera calidad, 
+            debido al incremento de la renta disponible.
+            <br><br>
+            A medida que se realizan más estudios sobre las ventajas de las especias y condimentos 
+            para la salud, por ello las personas preocupadas por su salud son cada vez más exigentes 
+            y ofrecen lucrativas oportunidades de crecimiento para el mercado objetivo.
+        </p>
+
     </div>
 </div>
 
@@ -163,9 +175,20 @@
 <div class="section-container section-container-inverted">
     <img src="img/inicio2.PNG" alt="Producto" class="order-md-2">
     <div class="section-text order-md-1">
-        <p>Lorem ipsum dolor sit amet consectetur. Enim rhoncus lectus porttitor velit netus mauris sit posuere leo. Turpis tristique rhoncus eget non senectus mollis.</p>
-        <p>Nunc viverra cursus ante tortor. Donec fermentum urna est sed nunc ut. Donec convallis nulla condimentum justo.</p>
-        <p>Sapien maecenas lectus sit sit vulputate enim risus pharetra. Arcu mauris nisi mus vitae turpis egestas sem at nisi. Leo eu eu sem sed sociis. Sed mi eu tellus laoreet tempor praesent. A enim leo orci sit.</p>
+        <p>La aparición de marcas nacionales de hierbas y especias, el aumento de la 
+            publicidad social para promover el producto de la marca ha fomentado aún más 
+            la demanda del crecimiento del mercado de especias y condimentos. Las preferencias 
+            de los consumidores juegan un papel vital en el impulso de la demanda de especias. 
+            A medida que evolucionan los gustos de los consumidores, existe una inclinación 
+            creciente hacia diversos sabores, cocinas étnicas, así como experiencias gastronómicas 
+            aventureras. 
+            <br><br>
+            Esto impulsa la demanda de una amplia gama de especias y condimentos para satisfacer 
+            diferentes preferencias culinarias. Los consumidores buscan productos naturales, 
+            orgánicos o de etiqueta limpia, lo cual ayuda a impulsar la demanda de mezclas de 
+            especias y condimentos sin aditivos artificiales, conservantes o ingredientes modificados 
+            genéticamente. (NOTICIAS, 2023)
+        </p>
     </div>
 </div>
 
@@ -173,9 +196,14 @@
 <div class="section-container">
     <img src="img/inicio3.PNG" alt="Producto">
     <div class="section-text">
-        <p>Lorem ipsum dolor sit amet consectetur. Enim rhoncus lectus porttitor velit netus mauris sit posuere leo. Turpis tristique rhoncus eget non senectus mollis.</p>
-        <p>Nunc viverra cursus ante tortor. Donec fermentum urna est sed nunc ut. Donec convallis nulla condimentum justo.</p>
-        <p>Sapien maecenas lectus sit sit vulputate enim risus pharetra. Arcu mauris nisi mus vitae turpis egestas sem at nisi. Leo eu eu sem sed sociis. Sed mi eu tellus laoreet tempor praesent. A enim leo orci sit.</p>
+        <p>
+            De acuerdo con el trabajo realizado en el proyecto de inversión formó parte del trabajo 
+            integrador de “Gestión de Negocios y Proyectos” en la Universidad Tecnológica del Valle 
+            del Mezquital, con la finalidad de realizar el estudio de mercado, estudio técnico y estudio 
+            financiero para evaluar la rentabilidad de la producción de los sazonadores “SAZONIX”. 
+            Se pudo observar con los datos obtenidos que el mercado de sazonadores y especias es muy 
+            amplio y viable para su venta, ya que en los últimos años se ha podido apreciar un gran 
+            incremento del consumo de estos, los cuales siguen ampliándose más conforme al tiempo.</p>
     </div>
 </div>
 

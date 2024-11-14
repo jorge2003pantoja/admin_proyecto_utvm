@@ -165,9 +165,15 @@
     <img src="img/inicio2.PNG" alt="Producto">
     <div class="section-text">
         <h2>¿QUIENES SOMOS?</h2>
-        <p>Lorem ipsum dolor sit amet consectetur. Enim rhoncus lectus porttitor velit netus mauris sit posuere leo. Turpis tristique rhoncus eget non senectus mollis.</p>
-        <p>Nunc viverra cursus ante tortor. Donec fermentum urna est sed nunc ut. Donec convallis nulla condimentum justo.</p>
-        <p>Sapien maecenas lectus sit sit vulputate enim risus pharetra. Arcu mauris nisi mus vitae turpis egestas sem at nisi. Leo eu eu sem sed sociis. Sed mi eu tellus laoreet tempor praesent. A enim leo orci sit.</p>
+        <p>Somos una marca joven y dinámica que nace con la misión de transformar la 
+            forma en que las personas sazonan sus comidas. Nuestro enfoque está en ofrecer 
+            una experiencia única, basada en la calidad y frescura de nuestras especias e 
+            ingredientes naturales. Creamos sazonadores innovadores, diseñados para satisfacer 
+            los paladares más exigentes, realzando el sabor de cada platillo con un toque especial.</p>
+        <p>En Sazonix, creemos que un buen sazonador debe ser más que un simple complemento; 
+            debe ser la conexión entre la naturaleza y tu mesa, respetando el medio ambiente 
+            y promoviendo un estilo de vida saludable. Con pasión y dedicación, buscamos posicionarnos 
+            como líderes en el mercado, siempre fieles a nuestra esencia: natural, auténtica e innovadora.</p>
     </div>
 </div>
 
@@ -286,8 +292,21 @@
 <div class="section-container">
     <img src="img/nosotros2.PNG" alt="Producto">
     <div class="section-text">
-        <h2>OBJETIVO</h2>
-        <p>Ser la mejor marca de sazonadores reconocida por las familias mexicanas</p>
+        <h2>OBJECTIVO</h2>
+        <p>Nuestro objetivo en Sazonix es convertirnos en la marca de referencia 
+            para quienes buscan los mejores sazonadores para carnes en la región. 
+            Aspiramos a ofrecer productos que no solo realcen el sabor de cada corte, 
+            sino que también aporten un toque distintivo y memorable a cada receta. 
+            Sabemos que la calidad y autenticidad son clave, por eso cuidamos cada detalle 
+            en la selección de nuestras especias, garantizando frescura y un equilibrio 
+            perfecto de sabores.
+            <br><br>
+            A través de la innovación constante, queremos satisfacer las expectativas de los 
+            amantes de la cocina, desde chefs profesionales hasta quienes disfrutan de preparar 
+            una buena parrillada en casa.  Con pasión y dedicación, buscamos no solo destacar 
+            entre las mejores marcas, sino también crear un vínculo de confianza y preferencia 
+            con nuestros consumidores, elevando el estándar de lo que un sazonador para carnes puede lograr.
+        </p>
     </div>
 </div>
 
