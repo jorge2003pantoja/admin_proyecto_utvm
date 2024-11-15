@@ -3,6 +3,10 @@
 use App\Http\Controllers\ProductoController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
+use App\Http\Controllers\NewProductoController;
+
+
+
 
 Route::get('/', function () {
     return view('welcome');
@@ -12,7 +16,7 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::resource('productos', ProductoController::class);
+Route::resource('admin/productos', ProductoController::class);
 
 Auth::routes();
 
@@ -31,3 +35,5 @@ Route::get('recetas', function () {
 Route::get('contacto', function () {
     return view('contacto');
 });
+
+Route::get('admin/productos/create', [ProductoController::class, 'create'])->name('productos.create');

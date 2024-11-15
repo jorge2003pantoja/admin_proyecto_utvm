@@ -26,7 +26,7 @@ class ProductoRequest extends FormRequest
 			'descripcion' => 'required|string',
 			'precio' => 'required',
 			'existencia' => 'required',
-			'imagen' => 'string',
+			'imagen' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
         ];
     }
 }

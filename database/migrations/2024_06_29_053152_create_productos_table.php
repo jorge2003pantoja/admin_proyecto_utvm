@@ -17,7 +17,7 @@ return new class extends Migration
             $table->text('descripcion');
             $table->double('precio', 10, 2);
             $table->integer('existencia');
-            $table->string('imagen')->nullable();
+            $table->binary('imagen')->nullable(); // Cambiamos a tipo binario
             $table->timestamps();
         });
     }

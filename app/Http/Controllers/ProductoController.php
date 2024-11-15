@@ -43,13 +43,24 @@ class ProductoController extends Controller
     /**
      * Store a newly created resource in storage.
      */
+
     public function store(ProductoRequest $request): RedirectResponse
     {
-        Producto::create($request->validated());
+        // Validación de la imagen
+        $validated = $request->validated();
+
+        // Si se sube una imagen, guarda el archivo en el almacenamiento y obtiene su ruta
+        if ($request->hasFile('imagen')) {
+            $validated['imagen'] = $request->file('imagen')->store('productos', 'public');
+        }
+
+        // Crear el producto con los datos validados
+        Producto::create($validated);
 
         return Redirect::route('productos.index')
-            ->with('success', 'Producto created successfully.');
+            ->with('success', 'Producto creado exitosamente.');
     }
+
 
     /**
      * Display the specified resource.

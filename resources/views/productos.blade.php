@@ -111,6 +111,7 @@
                 <img src="{{ asset('storage/' . $producto->imagen) }}" class="card-img-top" alt="{{ $producto->nombre }}">
                 <div class="card-body">
                     <h5 class="card-title">{{ $producto->nombre }}</h5>
+                    <p class="card-text">{{ Str::limit($producto->descripcion, 100) }}</p> <!-- Muestra una parte de la descripción -->
                 </div>
             </div>
         </div>
