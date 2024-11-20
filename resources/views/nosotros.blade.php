@@ -162,7 +162,7 @@
 
 <!---------- Nueva Sección ---------->
 <div class="section-container">
-    <img src="img/inicio2.PNG" alt="Producto">
+    <img src="img/N1.PNG" alt="Nosotros">
     <div class="section-text">
         <h2>¿QUIENES SOMOS?</h2>
         <p>Somos una marca joven y dinámica que nace con la misión de transformar la 
@@ -179,7 +179,7 @@
 
 <!---------- Nueva Sección Invertida ---------->
 <div class="section-container section-container-inverted">
-    <img src="img/nosotros1.PNG" alt="Producto" class="order-md-2">
+    <img src="img/N2.PNG" alt="Nosotros" class="order-md-2">
     <div class="section-text order-md-1">
         <h2>MISIÓN</h2>
         <p>Somos una marca de sazonadores nueva en el mercado que busca ofrecer un producto
@@ -190,7 +190,7 @@
 
 <!---------- Nueva Sección ---------->
 <div class="section-container">
-    <img src="img/nosotros2.PNG" alt="Producto">
+    <img src="img/N3.PNG" alt="Nosotros">
     <div class="section-text">
         <h2>VISIÓN</h2>
         <p>Ser la mejor marca de sazonadores reconocida por las familias mexicanas</p>
@@ -199,7 +199,7 @@
 
 <!---------- Nueva Sección Invertida ---------->
 <div class="section-container section-container-inverted">
-    <img src="img/nosotros1.PNG" alt="Producto" class="order-md-2">
+    <img src="img/N4.PNG" alt="Nosotros" class="order-md-2">
     <div class="section-text order-md-1">
         <h2>VALORES</h2>
         <p>En Sazonix se sabe que los valores son parte fundamental para tener un
@@ -290,7 +290,7 @@
 
 <!---------- Nueva Sección ---------->
 <div class="section-container">
-    <img src="img/nosotros2.PNG" alt="Producto">
+    <img src="img/N5.PNG" alt="Nosotros">
     <div class="section-text">
         <h2>OBJECTIVO</h2>
         <p>Nuestro objetivo en Sazonix es convertirnos en la marca de referencia 
